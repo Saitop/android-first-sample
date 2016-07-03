@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<android.support.design.widget.CoordinatorLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_my"
@@ -9,4 +9,4 @@
 
     <include layout="@layout/content_my" />
 
-</LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
